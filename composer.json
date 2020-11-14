@@ -1,0 +1,17 @@
+{
+    "name": "zetrider/dicepoker",
+    "authors": [
+        {
+            "name": "ZetRider",
+            "email": "zetrider@bk.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "ZetRider\\DicePoker\\": "src/"
+        }
+    },
+    "require": {
+        "php":">=7.0.0"
+    }
+}
